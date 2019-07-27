@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="WINDOWS-1252"?>
+<dope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="dsf.xsd">
+<commonInfo>
+<dopeVersion>
+<releaseId>4</releaseId>
+<buildId>8</buildId>
+<fixLevel>8</fixLevel>
+<releaseDate>2016-01-26</releaseDate>
+</dopeVersion>
+</commonInfo>
+<!-- SUBCHDB: default TARGPK: default TARGDB: default -->
+<data dbtype="DRP" version="1.12" osUser="Marco" dopeUser="ADMIN" dbEdition="223" timestamp="2019-07-27 12:36:15 MESZ" dataSorted="no" locale="de_DE">
+<stencil id="DAVE_DVL3" allowIndividualText="no" allowElementsFrom="allprojects" allowOnlinePrint="yes" allowStencilasChildren="yes" suppressParagraphSelection="no" numberOfCopiesInBatch="0" removeDoubleParameters="no" printFormat="" PVPName="" PDPName="" DCPName="" asfCallModeForPDP="switch" asfCallModeForPVP="switch" asfCallModeForDCP="start" isKeepTextsCurrent="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="ADMIN" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="24-02-2019 12:28:23" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:33:49" uuid="772e7bb52a274ec6bfd6de7da5a64dd1"/>
+<stencilentries>
+<stencilentry refid="DAVE_TBS1" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS2" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS3" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS4" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS5" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS6" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS7" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS8" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS9" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS10" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+</stencilentries>
+</stencil>
+<stencil id="DAVE_DVL1" allowIndividualText="no" allowElementsFrom="allprojects" allowOnlinePrint="yes" allowStencilasChildren="yes" suppressParagraphSelection="no" numberOfCopiesInBatch="0" removeDoubleParameters="no" printFormat="" PVPName="" PDPName="" DCPName="" asfCallModeForPDP="switch" asfCallModeForPVP="switch" asfCallModeForDCP="start" isKeepTextsCurrent="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="24-02-2019 12:27:23" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:33:44" uuid="f3ae476d3a514a2592807fabe0e7fb98"/>
+<stencilentries>
+<stencilentry refid="DAVE_TDV1" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV2" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV3" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV4" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV5" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV6" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV7" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV8" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV9" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV10" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+</stencilentries>
+</stencil>
+<stencil id="DAVE_DVL2" allowIndividualText="no" allowElementsFrom="allprojects" allowOnlinePrint="yes" allowStencilasChildren="yes" suppressParagraphSelection="no" numberOfCopiesInBatch="0" removeDoubleParameters="no" printFormat="" PVPName="" PDPName="" DCPName="" asfCallModeForPDP="switch" asfCallModeForPVP="switch" asfCallModeForDCP="start" isKeepTextsCurrent="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="24-02-2019 12:27:53" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:33:32" uuid="45acc3b077a14b5ab02046565150b4b3"/>
+<stencilentries>
+<stencilentry refid="DAVE_TDV1" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV2" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV3" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TBS1" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS2" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS3" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+</stencilentries>
+</stencil>
+<stencil id="DAVE_DVL4" allowIndividualText="no" allowElementsFrom="allprojects" allowOnlinePrint="yes" allowStencilasChildren="yes" suppressParagraphSelection="no" numberOfCopiesInBatch="0" removeDoubleParameters="no" printFormat="" PVPName="" PDPName="" DCPName="" asfCallModeForPDP="switch" asfCallModeForPVP="switch" asfCallModeForDCP="start" isKeepTextsCurrent="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="ADMIN" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="24-02-2019 12:29:24" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 19:35:31" uuid="1570e6ccf7024c4a81d783906d421e1d"/>
+<stencilentries>
+<stencilentry refid="DAVE_TBS1" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TBS2" description="DAVE" type="paragraph" isPreselected="yes" isMandatory="no" editable="permit"/>
+<stencilentry refid="DAVE_TDV1" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV2" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+</stencilentries>
+</stencil>
+<stencil id="DAVE_DVL5" allowIndividualText="no" allowElementsFrom="allprojects" allowOnlinePrint="yes" allowStencilasChildren="yes" suppressParagraphSelection="no" numberOfCopiesInBatch="0" removeDoubleParameters="no" printFormat="" PVPName="" PDPName="" DCPName="" asfCallModeForPDP="switch" asfCallModeForPVP="switch" asfCallModeForDCP="start" isKeepTextsCurrent="no" visibility="VISIBLE">
+<meta description="DAVE" version="-1" scope="public" author="DAVE" helpsetID="" protectionCode="0" productionState="10" owner="DE_AD_ZZ" modificationUser="DAVE" releaseName="DAVE" validFrom="10-11-2018" validTo="31-12-2099" modificationDate="10-11-2018 20:31:43" releaseDate="01-01-1800 00:00:00" referenceDate="10-11-2018" migrationStage="" logicalVersion="-1" changeDescription="" creationDate="10-11-2018 20:31:12" uuid="fd14d2c9c10c494c8d759e467a8d0296"/>
+<stencilentries>
+<stencilentry refid="DAVE_TDV1" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV2" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV3" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV4" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+<stencilentry refid="DAVE_TDV5" description="DAVE" type="stencil" isPreselected="yes" isMandatory="no" editable="deny"/>
+</stencilentries>
+</stencil>
+</data>
+</dope>
